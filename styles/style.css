@@ -1,0 +1,17 @@
+body {
+  background-color:grey;
+  margin-left:0px;
+  margin-right:0px;
+}
+
+.text {
+  text-align:center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.image {
+  width:100%;
+  height: 900px;
+  background-image:url(http://images6.fanpop.com/image/photos/33300000/Abstract-Space-space-33308889-1920-1200.jpg);
+  background-position:center;
+}
